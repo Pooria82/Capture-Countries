@@ -1,0 +1,42 @@
+name1 :won
+name2 :won
+Nameless :won
+Nameless :lost(time's up)
+Nameless :lost(time's up)
+name3 :won
+Nameless :lost
+Nameless :lost
+Nameless :lost(time's up)
+ali :lost(time's up)
+Nameless :lost(time's up)
+Nameless :lost
+Nameless :lost
+Nameless :lost
+Nameless :lost
+Nameless :lost(time's up)
+Nameless :lost
+Nameless :lost
+pooria :won
+Pooria :won
+Nameless :lost(time's up)
+heli :won
+Nameless :won
+sami :won
+123 :won
+Nameless :lost
+Nameless :lost
+Nameless :won
+Nameless :won
+Nameless :lost(time's up)
+Nameless :lost
+Nameless :lost
+sami :won
+sami :won
+Nameless :won
+sami :won
+sami :won
+Nameless :won
+Nameless :won
+sami :won
+Nameless :won
+Nameless :won
